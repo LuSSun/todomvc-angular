@@ -3,5 +3,15 @@
   "dependencies": {
     "angular": "^1.4.9",
     "todomvc-app-css": "^2.0.0"
-  }
+  },
+  "name": "todomvc-angular",
+  "description": "引用模板\r 利用angular的MVC开发思想，双向数据绑定，\r 实现，删除，编辑，全选，完成切换功能",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lilu",
+  "license": "ISC"
 }
